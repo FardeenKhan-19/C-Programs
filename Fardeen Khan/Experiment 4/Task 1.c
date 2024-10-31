@@ -2,7 +2,7 @@
 
 Experiment 4
 
-Title   :
+Title   : WAP to find all the prime numbers between two numbers.
 
 Name    : Fardeen Firoz Khan
 
