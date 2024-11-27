@@ -2,7 +2,7 @@ Fardeen Firoz Khan
 FE Div : D
 UIN/Roll no : 241P096/27
 
-	Experiment 1 T1 Uploaded.
+  Experiment 1 T1 Uploaded.
 	Experiment 1 T2 Uploaded.
 	Experiment 2 T1 Uploaded.
 	Experiment 2 T2 Uploaded.
