@@ -17,4 +17,5 @@ UIN/Roll no : 241P096/27
         Experiment 8 T2 Uploaded.
   	Experiment 9 T1 Uploaded.
   	Experiment 10 T1 Uploaded.
-	Experiment 10 T2 Uploaded
+	Experiment 10 T2 Uploaded.
+ 	Experiment 11 T1 Uploaded.
